@@ -55,6 +55,7 @@ div.jYcx0e {
     font-size: 13px;
     height: 25px;
     padding: 1px 8px;
+    width: 100%;
 }
 
 div.PLLUQc {
@@ -80,7 +81,7 @@ div.FAcADc {
     width: 16%;
     height: 42px;
     color: #222;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 16px;
     vertical-align: middle;
 }
@@ -101,20 +102,44 @@ div.FAcADc {
     margin-left: -100px;
 }
 
-            .top-center {
-                margin: 0 auto;
-                font-size: 40px; 
+.top-center {
+    margin: 0 auto;
+    font-size: 40px; 
+    }
 
-            }
+.buttom-center {
+    margin-top: 30px; 
+    margin-left: 170px;
+    font-size: 18px; 
+}
 
-            .buttom-center {
-                margin-top: 30px; 
-                margin-left: 170px;
-                font-size: 18px; 
-            }
+.round {
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+}  
 
-           .round {
-            border-radius: 24px;
-            border: 1px solid #dfe1e5;
+.appbar {
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
 
-           }    
+.gy3Eif {
+    border-bottom: 1px solid #ebebeb;
+}
+
+div.Mza7yc {
+    max-width: 1140px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+}
+
+div.otByu div.yIQOUb {
+    clear: both;
+}
+
+
+div {
+    display: block; 
+}
